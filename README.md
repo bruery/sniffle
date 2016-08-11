@@ -1,7 +1,10 @@
 # The Bruery
 ### Sniffle - Digital Asset Management System (DAMS)
 
-![Alt text](https://raw.githubusercontent.com/bruery/platform/master/src/platform/Resources/img/bruery-logo2.png "Bruery")
+<p align="center">
+	<img src="https://raw.githubusercontent.com/bruery/platform/master/src/platform/Resources/img/bruery-logo2.png">
+</p>
+
 
 Sniffle is built on top of [Bruery Platform](http://bruery.github.io/platform) offers developers a bootstrap template for creating incredible digital experiences and management of your digital assets.
 
